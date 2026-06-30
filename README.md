@@ -11,7 +11,7 @@
 
 ## 功能介绍
 
-VoHive 是面向高通 4G 模组场景，核心能力包括：
+VoHive 是面向高通 4G/5G 模组场景的一体化管理与代理平台，核心能力包括：
 
 - 网页/Bot收发短信
 - 多卡统一管理
@@ -27,8 +27,10 @@ VoHive 是面向高通 4G 模组场景，核心能力包括：
 
 推荐：
 
-- EC20CEFAG
-- EC20CEFHLG
+- 移远 EC20CE 系4G模块
+- 移远 EM500Q 5G模块
+- 高通 410 WIFI板子(得debian/openwrt,需要有折腾能力)
+- 以及各类高通4G USB模组
 - 可以小黄鱼几十块买到
 
 要求：
@@ -215,3 +217,21 @@ https://t.me/vohive_channel
 ### 交流群：
 
 https://t.me/vohive
+
+### 捐赠钱包地址
+Plasma链
+```
+0x283075c37446704d29c287635018840a86d0f1a5
+```
+BNB链
+```
+0x283075c37446704d29C287635018840a86d0F1A5
+```
+TRC20
+```
+TWB3yCC1ygCKrazdvm8p1A4BUz2gpoPRs4
+```
+Arbitrum
+```
+0x283075c37446704d29C287635018840a86d0F1A5
+```

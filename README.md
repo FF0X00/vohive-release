@@ -217,21 +217,3 @@ https://t.me/vohive_channel
 ### 交流群：
 
 https://t.me/vohive
-
-### 捐赠钱包地址
-Plasma链
-```
-0x283075c37446704d29c287635018840a86d0f1a5
-```
-BNB链
-```
-0x283075c37446704d29C287635018840a86d0F1A5
-```
-TRC20
-```
-TWB3yCC1ygCKrazdvm8p1A4BUz2gpoPRs4
-```
-Arbitrum
-```
-0x283075c37446704d29C287635018840a86d0F1A5
-```
